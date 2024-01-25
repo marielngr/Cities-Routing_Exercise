@@ -8,7 +8,6 @@ export default function Cities() {
       <ul>
         {cities.map((city) => (
           <li key={city.id}>
-            {" "}
             <Link href={`/cities/${city.slug}`}>{city.name}</Link>
           </li>
         ))}
