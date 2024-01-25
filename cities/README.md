@@ -28,7 +28,7 @@ Select the "Tests: logs" tab to view the tests.
 
 ### Scripts
 
-You can use the following commands:
+You can use the commands:
 
 - `npm run dev` to start a development server
 - `npm run build` to build the project
