@@ -18,6 +18,7 @@ export default function City() {
     <>
       <h1>{city.name}</h1>
       <p>{city.description}</p>
+      <Link href={`/cities/}>back</Link>
     </>
   );
 }
